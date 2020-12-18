@@ -13,3 +13,7 @@
 * install dotnet
 * hello world
 * install remote debugging...
+
+
+# references
+* https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu#2010-
